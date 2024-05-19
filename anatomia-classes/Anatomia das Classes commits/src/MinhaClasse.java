@@ -1,5 +1,5 @@
 public class MinhaClasse {
     public static void main (String [] args) {
-        System.out.print("Ola galera, aprendnedo sobre classes!");
+        //variaveis aceitas são as que tem $ ou _ e letra maíuscula
     }
 }
